@@ -9,7 +9,7 @@
 
 - [x] Write UI elements in a declarative way
 - [x] Supports user customized FlexView
-- [ ] Support aysnc UI Rendering by using Core Text
+- [ ] Support aysnc UI rendering by using Core Text
 - [ ] Using diff algorithms to only re-render state changed UI elements
 
 ## KDFlexboxKit 101
