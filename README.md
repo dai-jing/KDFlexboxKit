@@ -103,7 +103,7 @@ You can use built-in FlexNode for UIView, UIImageView, UILabel, UIButton, UIText
 + `FlexTextField` is used for `UITextField`
 
 You can also make your own FlexView simply by subclassing `FlexView`:
-```
+```Swift
 public class FlexSeparatorLine: FlexView {
     public required init() {
     }
