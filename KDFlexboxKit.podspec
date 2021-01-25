@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/dai-jing/KDFlexboxKit'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'dai-jing' => 'kobedai24@gmail.com' }
-  s.source           = { :git => 'https://github.com/dai-jing/KDFlexboxKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/dai-jing/KDFlexboxKit.git', :tag => "#{s.version}" }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, "10.0"
