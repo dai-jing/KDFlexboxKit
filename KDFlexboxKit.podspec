@@ -15,8 +15,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/dai-jing/KDFlexboxKit'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'dai-jing' => 'kobedai24@gmail.com' }
-  s.source           = { :git => 'https://github.com/dai-jing/KDFlexboxKit.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => 'https://github.com/dai-jing/KDFlexboxKit.git', :tag => "#{s.version}" }
 
   s.platform     = :ios, "10.0"
   
@@ -32,3 +31,4 @@ Pod::Spec.new do |s|
   s.dependency 'Yoga', '1.14.0'
   s.dependency 'Kingfisher'
 end
+
