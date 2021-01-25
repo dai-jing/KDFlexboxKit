@@ -1,0 +1,6 @@
+module KDFlexboxKit {
+  umbrella header "KDFlexboxKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
