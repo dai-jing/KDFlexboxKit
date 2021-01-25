@@ -1,0 +1,27 @@
+PODS:
+  - KDFlexboxKit (0.1.0):
+    - Kingfisher
+    - Yoga (= 1.14.0)
+  - Kingfisher (6.0.1)
+  - Yoga (1.14.0)
+
+DEPENDENCIES:
+  - KDFlexboxKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - Yoga
+
+EXTERNAL SOURCES:
+  KDFlexboxKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KDFlexboxKit: d22dc88536f080de5535e28b7d6c759137a11c96
+  Kingfisher: adde87a4f74f6a3845395769354efff593581740
+  Yoga: cff67a400f6b74dc38eb0bad4f156673d9aa980c
+
+PODFILE CHECKSUM: 5e26c24d731fd700c0a3cf1a078321d2491e522b
+
+COCOAPODS: 1.8.4

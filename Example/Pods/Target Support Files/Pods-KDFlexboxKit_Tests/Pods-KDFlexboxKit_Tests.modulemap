@@ -1,0 +1,6 @@
+framework module Pods_KDFlexboxKit_Tests {
+  umbrella header "Pods-KDFlexboxKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

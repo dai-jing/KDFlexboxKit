@@ -1,0 +1,6 @@
+module Pods_KDFlexboxKit_Example {
+  umbrella header "Pods-KDFlexboxKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
