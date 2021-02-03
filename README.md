@@ -21,7 +21,7 @@
 
 Here's some sample codes that you can generate this view:
 
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f7b8e3be-404c-4204-85e6-99ceec9902a0/Screen_Shot_2021-01-25_at_3.38.02_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210125%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210125T093915Z&X-Amz-Expires=86400&X-Amz-Signature=a3758cb3829f8815921053a4b0541ae0d8176f6ac23878db9248afd8601a234a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screen_Shot_2021-01-25_at_3.38.02_PM.png%22)
+![img](Screen_Shot_2021-01-25_at_3.38.02_PM.png)
 
 ```Swift
 /// root node that represents the container view
